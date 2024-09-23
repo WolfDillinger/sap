@@ -1,6 +1,6 @@
 import 'package:flutter/widgets.dart';
 
-import '../helper/part.dart';
+import '../services/part.dart';
 import '../model/part.dart';
 
 class PartProvider with ChangeNotifier {

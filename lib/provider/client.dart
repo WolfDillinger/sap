@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:uuid/uuid.dart';
-import '../helper/client.dart';
+import '../services/client.dart';
 import '../model/client.dart';
 
 enum SearchBy { AR, EN, EMAIL, PHONE, PIC, NAME, CODE, LOCATION, TAX, FAX }

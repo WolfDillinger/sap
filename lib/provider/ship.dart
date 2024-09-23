@@ -1,7 +1,7 @@
 import 'dart:convert';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart' as rootBundle;
-import '../helper/ship.dart';
+import '../services/ship.dart';
 import '../model/port.dart';
 import '../model/sealine.dart';
 

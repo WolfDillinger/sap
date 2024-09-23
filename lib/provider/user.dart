@@ -2,7 +2,7 @@ import 'dart:async';
 import 'package:flutter/material.dart';
 import 'package:flutter/widgets.dart';
 import 'package:firebase_auth/firebase_auth.dart';
-import '../helper/user.dart';
+import '../services/user.dart';
 import '../model/user.dart';
 
 enum Status { Uninitialized, Authenticated, Authenticating, Unauthenticated }

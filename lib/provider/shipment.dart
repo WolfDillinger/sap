@@ -1,7 +1,7 @@
 import 'package:flutter/cupertino.dart';
 import 'package:sap/model/shipment.dart';
 import 'package:uuid/uuid.dart';
-import '../helper/shipment.dart';
+import '../services/shipment.dart';
 
 enum SearchByShipment {
   MBL,

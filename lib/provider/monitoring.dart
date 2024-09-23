@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:uuid/uuid.dart';
 
-import '../helper/monitoring.dart';
+import '../services/monitoring.dart';
 
 class MonitoringProvider with ChangeNotifier {
   MonitoringServices _monitoringServices = MonitoringServices();

@@ -1,7 +1,7 @@
 import 'package:flutter/widgets.dart';
 import 'package:uuid/uuid.dart';
 
-import '../helper/clearance.dart';
+import '../services/clearance.dart';
 import '../model/clearance.dart';
 
 enum SearchBy { NAME, EMAIL, PHONE, CODE, PIC, FAX, TEL, ADDRESS }

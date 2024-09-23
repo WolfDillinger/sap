@@ -1,6 +1,6 @@
 import 'package:flutter/widgets.dart';
 
-import '../helper/notification.dart';
+import '../services/notification.dart';
 import '../model/notification.dart';
 
 class NotificationProvider with ChangeNotifier {
