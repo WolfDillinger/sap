@@ -20,9 +20,9 @@ import 'add_form.dart';
 import 'add_hbl.dart';
 import 'container_form.dart';
 import 'country_prediction.dart';
-import 'custom_text.dart';
+import '../style/custom_text.dart';
 import 'divider.dart';
-import 'progress.dart';
+import '../style/progress.dart';
 import 'sea_line_prediction.dart';
 
 class ShipmentClientWidget extends StatefulWidget {

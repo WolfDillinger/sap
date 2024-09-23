@@ -8,7 +8,7 @@ import 'package:sap/provider/shipment.dart';
 import '../helper/firebase_api.dart';
 import '../provider/monitoring.dart';
 import '../widget/bls_edits.dart';
-import '../widget/progress.dart';
+import '../style/progress.dart';
 
 class HblsEditsScreen extends StatefulWidget {
   final dynamic hbls;

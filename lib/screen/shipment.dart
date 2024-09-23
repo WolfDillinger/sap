@@ -7,7 +7,7 @@ import 'package:provider/provider.dart';
 import 'package:url_launcher/url_launcher_string.dart';
 import '../helper/screen_navigation.dart';
 import '../provider/shipment.dart';
-import '../widget/custom_text.dart';
+import '../style/custom_text.dart';
 import '../widget/divider.dart';
 import 'home.dart';
 import 'search_shipment.dart';

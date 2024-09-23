@@ -10,7 +10,7 @@ import 'package:sap/screen/home.dart';
 import '../provider/agent.dart';
 import '../helper/screen_navigation.dart';
 import '../provider/shipment.dart';
-import '../widget/custom_text.dart';
+import '../style/custom_text.dart';
 import 'agent_profile.dart';
 import 'search_agent.dart';
 

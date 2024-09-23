@@ -6,7 +6,7 @@ import 'package:sap/provider/invoice.dart';
 import 'package:url_launcher/url_launcher_string.dart';
 import '../provider/shipment.dart';
 import '../screen/search_invoice.dart';
-import 'custom_text.dart';
+import '../style/custom_text.dart';
 import 'divider.dart';
 
 class AgentShipmentWidget extends StatefulWidget {

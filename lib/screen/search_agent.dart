@@ -3,7 +3,7 @@ import 'package:provider/provider.dart';
 import 'package:sap/provider/shipment.dart';
 import '../helper/screen_navigation.dart';
 import '../provider/agent.dart';
-import '../widget/custom_text.dart';
+import '../style/custom_text.dart';
 import 'agent_profile.dart';
 import 'home.dart';
 

@@ -9,7 +9,7 @@ import 'package:sap/provider/action.dart';
 import '../helper/ExpandedListAnimationWidget.dart';
 import '../helper/Scrollbar.dart';
 import '../provider/monitoring.dart';
-import 'custom_text.dart';
+import '../style/custom_text.dart';
 
 class ActionClientWidget extends StatefulWidget {
   final String id;

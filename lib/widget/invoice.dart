@@ -16,9 +16,9 @@ import '../model/invoice_form.dart';
 import '../provider/monitoring.dart';
 import 'add_form_invoice.dart';
 import 'add_hbl.dart';
-import 'custom_text.dart';
+import '../style/custom_text.dart';
 import 'divider.dart';
-import 'progress.dart';
+import '../style/progress.dart';
 
 class InvoiceClientWidget extends StatefulWidget {
   final String name;

@@ -4,7 +4,7 @@ import 'package:provider/provider.dart';
 import 'package:sap/provider/client.dart';
 
 import '../helper/screen_navigation.dart';
-import '../widget/custom_text.dart';
+import '../style/custom_text.dart';
 import 'client_profile.dart';
 import 'home.dart';
 

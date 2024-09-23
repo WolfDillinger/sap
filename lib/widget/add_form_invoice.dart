@@ -7,7 +7,7 @@ import '../helper/ExpandedListAnimationWidget.dart';
 import '../helper/Scrollbar.dart';
 import '../helper/firebase_api.dart';
 import '../model/invoice_form.dart';
-import 'progress.dart';
+import '../style/progress.dart';
 
 typedef OnDelete();
 

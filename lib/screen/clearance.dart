@@ -8,7 +8,7 @@ import 'package:sap/provider/clearance.dart';
 import '../helper/screen_navigation.dart';
 import '../provider/monitoring.dart';
 import '../provider/user.dart';
-import '../widget/custom_text.dart';
+import '../style/custom_text.dart';
 import 'edit_clearance_profile.dart';
 import 'home.dart';
 import 'search_clearance.dart';

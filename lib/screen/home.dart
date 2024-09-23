@@ -11,8 +11,8 @@ import 'package:sap/screen/shipment.dart';
 import '../helper/screen_navigation.dart';
 import '../helper/shared_preferences_service.dart';
 import '../provider/action.dart';
-import '../widget/custom_text.dart';
-import '../widget/progress.dart';
+import '../style/custom_text.dart';
+import '../style/progress.dart';
 import 'agents.dart';
 import 'clearance.dart';
 import 'client_profile.dart';
@@ -1628,6 +1628,7 @@ class _HomeScreenState extends State<HomeScreen> {
                               client.clients = snapshot.data!.docs
                                   .map((e) => ClientModel.fromSnapshot(e))
                                   .toList();
+
                               return Scrollbar(
                                 thumbVisibility: true,
                                 scrollbarOrientation: ScrollbarOrientation.top,

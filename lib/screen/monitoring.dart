@@ -6,7 +6,7 @@ import 'package:provider/provider.dart';
 import 'package:sap/provider/app.dart';
 
 import '../helper/screen_navigation.dart';
-import '../widget/custom_text.dart';
+import '../style/custom_text.dart';
 import 'home.dart';
 
 class MonitoringScreen extends StatefulWidget {
