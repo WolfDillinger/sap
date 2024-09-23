@@ -13,20 +13,20 @@ dependencies:
     sdk: flutter
 
   cupertino_icons: ^1.0.2
-  firebase_core: ^2.1.1
-  uuid: ^3.0.6
-  firebase_auth: ^4.1.1
-  cloud_firestore: ^4.0.4
+  firebase_core: ^3.5.0
+  uuid: ^4.5.0
+  firebase_auth: ^5.3.0
+  cloud_firestore: ^5.4.2
   data_table_2: ^2.3.5
   build_runner: ^2.1.0
   build_test: ^2.1.0
-  build_web_compilers: ^3.0.0
+  build_web_compilers: ^4.0.11
   provider: ^6.0.4
   fluttertoast: ^8.0.9
-  google_fonts: ^3.0.1
+  google_fonts: ^6.2.1
   easy_localization: ^3.0.1
-  file_picker: ^4.6.1
-  firebase_storage: ^11.0.4
+  file_picker: ^8.1.2
+  firebase_storage: ^12.3.1
   flutter_spinkit: ^5.1.0
   url_launcher: ^6.1.4
 
@@ -36,7 +36,7 @@ dev_dependencies:
     sdk: flutter
 
 
-  flutter_lints: ^2.0.0
+  flutter_lints: ^4.0.0
 
 flutter:
 
